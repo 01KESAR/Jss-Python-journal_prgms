@@ -8,7 +8,7 @@ while f3<=n:
         print(n,'belongs to fibonacci sequences')
         break
     f3=f1+f2
-    f1=f299
+    f1=f2
     f2=f3
 else:
     print(n,'does not belong to fibonacci sequences')   
